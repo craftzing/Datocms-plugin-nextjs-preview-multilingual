@@ -1,4 +1,11 @@
 # Next.js Preview Links DatoCMS Plugin
+## Credits
+This package is a mix of code from: https://github.com/DCKT/datocms-plugin-nextjs-preview and
+https://github.com/wbobeirne/datocms-plugin-nextjs-preview but seems like 
+a long time there was no progress so making this new clone that combines the two.
+
+The original plugin by wbobeirne sadly does not support multilingual datocms sites and DCKT added support but the PR is not being merged.
+You can use this as a private package.
 
 Plugin that adds quick links to preview & view your DatoCMS on a Next.js site.
 Assumes you have a preview implementation based off of the [official Next.js Preview Mode guide](https://nextjs.org/docs/advanced-features/preview-mode).
