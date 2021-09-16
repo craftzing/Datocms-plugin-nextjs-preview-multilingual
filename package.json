@@ -1,6 +1,6 @@
 {
-  "name": "datocms-plugin-nextjs-preview",
-  "homepage": "https://github.com/wbobeirne/datocms-plugin-nextjs-preview",
+  "name": "datocms-plugin-nextjs-preview-multilingual",
+  "homepage": "https://github.com/craftzing/Datocms-plugin-nextjs-preview-multilingual",
   "version": "0.2.0",
   "description": "Plugin that provides links to preview content in Next.js",
   "main": "index.js",
