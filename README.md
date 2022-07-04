@@ -10,6 +10,19 @@ You can use this as a private package.
 Plugin that adds quick links to preview & view your DatoCMS on a Next.js site.
 Assumes you have a preview implementation based off of the [official Next.js Preview Mode guide](https://nextjs.org/docs/advanced-features/preview-mode).
 
+## Installing the plugin
+
+See [screenshot 1](https://capture.dropbox.com/TRqOyqz6Wh6ETLOl) and [screenshot 2](https://capture.dropbox.com/MLwgZAuhXb4kUATZ) for visual guide.
+
+- Go in DatoCMS to Settings => Plugins => Press the `+` button.
+- Choose "Create Private Plugin"
+- Fill in all fields:
+  - Title: `Preview`
+  - Entry Url: `https://craftzing.github.io/Datocms-plugin-nextjs-preview-multilingual/`
+  - Type of plugin: `Sidebar Widget`
+  - Field type: `JSON`
+  - Parameter definitions: `See package.json it's "parameters" object`
+
 ## Configuration
 
 After installing the plugin, you'll need to configure the plugin settings like so:
